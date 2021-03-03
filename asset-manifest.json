@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Starchild1337/BurgerBuilder.git/static/css/main.d2d7552e.chunk.css",
+    "main.js": "/Starchild1337/BurgerBuilder.git/static/js/main.da90a69e.chunk.js",
+    "main.js.map": "/Starchild1337/BurgerBuilder.git/static/js/main.da90a69e.chunk.js.map",
+    "runtime-main.js": "/Starchild1337/BurgerBuilder.git/static/js/runtime-main.9b13a5c5.js",
+    "runtime-main.js.map": "/Starchild1337/BurgerBuilder.git/static/js/runtime-main.9b13a5c5.js.map",
+    "static/js/2.dec40ffc.chunk.js": "/Starchild1337/BurgerBuilder.git/static/js/2.dec40ffc.chunk.js",
+    "static/js/2.dec40ffc.chunk.js.map": "/Starchild1337/BurgerBuilder.git/static/js/2.dec40ffc.chunk.js.map",
+    "index.html": "/Starchild1337/BurgerBuilder.git/index.html",
+    "precache-manifest.ade7ef9b44a3f3d966ce3716c2dede70.js": "/Starchild1337/BurgerBuilder.git/precache-manifest.ade7ef9b44a3f3d966ce3716c2dede70.js",
+    "service-worker.js": "/Starchild1337/BurgerBuilder.git/service-worker.js",
+    "static/css/main.d2d7552e.chunk.css.map": "/Starchild1337/BurgerBuilder.git/static/css/main.d2d7552e.chunk.css.map",
+    "static/js/2.dec40ffc.chunk.js.LICENSE.txt": "/Starchild1337/BurgerBuilder.git/static/js/2.dec40ffc.chunk.js.LICENSE.txt",
+    "static/media/BurgerLogo.png": "/Starchild1337/BurgerBuilder.git/static/media/BurgerLogo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b13a5c5.js",
+    "static/js/2.dec40ffc.chunk.js",
+    "static/css/main.d2d7552e.chunk.css",
+    "static/js/main.da90a69e.chunk.js"
+  ]
+}

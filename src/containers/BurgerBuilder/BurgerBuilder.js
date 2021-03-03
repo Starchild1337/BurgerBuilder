@@ -101,8 +101,6 @@ class BurgerBuilder extends Component {
       disabledInfo[key] = disabledInfo[key] <= 0;
     }
 
-    console.log(this.props);
-
     let orderSummary = (
       <OrderSummary
         ingredients={this.state.ingredients}
